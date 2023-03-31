@@ -1,0 +1,10 @@
+rm build/ -r || true
+
+# TRY to remove Iridium.nsp, ignore if it fails
+
+rm Iridium.nro || true
+rm Iridium.nacp || true
+rm Iridium.elf || true
+rm Iridium.lst || true
+
+

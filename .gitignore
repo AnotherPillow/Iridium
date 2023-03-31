@@ -1,0 +1,7 @@
+build/
+Plutonium/
+*.elf
+*.lst
+*.nacp
+*.nro
+dev
